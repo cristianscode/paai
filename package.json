@@ -1,0 +1,26 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "compression": "^1.7.4",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "express-rate-limit": "^6.7.0",
+        "moment": "^2.29.4",
+        "moment-timezone": "^0.5.43",
+        "mysql2": "^3.2.0",
+        "node-cron": "^3.0.2",
+        "node-wit": "^6.6.0",
+        "twilio": "^4.9.0",
+        "zip-to-timezone": "^1.1.5"
+    }
+}
